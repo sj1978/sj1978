@@ -93,7 +93,7 @@ Hey My Name is Anibal Amoroso, I'm a student at Microverse and  a Tech Enthusias
 </h1>
 
 
-<h3>Thanks for Stopping by!! 😊</h3>
+<h3>Thanks for Stopping by!!</h3>
 
 
 ---
