@@ -57,7 +57,7 @@ Hey My Name is Anibal Amoroso, I'm a student at Microverse and  a Tech Enthusias
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="64px" width="60px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
@@ -66,8 +66,8 @@ Hey My Name is Anibal Amoroso, I'm a student at Microverse and  a Tech Enthusias
     </tr>
         <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span>Ruby</span><br><br><br>
+        <img height="64px" src='./imgs/ruby.svg'>
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
