@@ -70,37 +70,37 @@ Hey My Name is Anibal Amoroso, I'm a student at Microverse and  a Tech Enthusias
         <img height="64px" src='./imgs/ruby.svg'>
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>Webpack</span><br><br><br>
+        <img height="64px" src='./imgs/webpack.svg'>
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" width="60px"src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" width="60px"src='./imgs/bootstrap.svg'>
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
+        <span><strong>Github</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="64px" src='./imgs/hub.svg'>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Redux</strong>
+        <span><strong>Node Js</strong>
         </span><br><br><br>
-        <img height="64px" src='./imgs/redux.svg'>
+        <img height="64px" src='./imgs/node.svg'>
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong>
+        <span><strong>Rails</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src='./imgs/rails.svg'>
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Postgres</span><br><br><br>
+        <img height="64px" src='./imgs/pos.svg'>
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>SQL</span><br><br><br>
+        <img height="64px" src='./imgs/sql.svg'>
       </td>
     </tr>
   
