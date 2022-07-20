@@ -48,7 +48,7 @@ Hey My Name is Anibal Amoroso, I'm a student at Microverse and  a Tech Enthusias
       <td width="25%" align="center">
         <span><strong>Redux</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Redux_logo-128.png">
+        <img height="64px" src='./imgs/redux.svg'>
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong>
